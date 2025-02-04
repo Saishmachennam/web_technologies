@@ -1,0 +1,18 @@
+student-management/
+│── index.html
+│── app.js
+│── studentService.js
+│── styles.css
+│── views/
+│   ├── home.html
+│   ├── students.html
+│   ├── add-student.html
+│   ├── 404.html
+│── components/
+│   ├── header.html
+│   ├── footer.html
+│   ├── nav.html
+│── assets/
+│   ├── students.json  (Optional: For dynamic routing)
+│── server/
+│   ├── db.json  (Mock API with JSON Server)
